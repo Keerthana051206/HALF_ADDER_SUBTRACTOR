@@ -17,7 +17,7 @@ Software – Quartus prime Theory Adders are digital circuits that carry out the
 Half adder is a combinational circuit that performs simple addition of two binary numbers. The input variables designate the augend and addend bits; the output variables produce the sum and carry. It is necessary to specify two output variables because the result may consist of two binary digits.
 
 Sum = A’B+AB’ =A ⊕ B Carry = AB
-<img width="345" alt="image" src="https://github.com/user-attachments/assets/5f15d664-8c42-47bf-ae72-48a956282f0a" />
+<img width="341" alt="image" src="https://github.com/user-attachments/assets/73cf84ec-25fa-4d3c-a35f-db30a9bcb433" />
 
 
 
@@ -29,8 +29,8 @@ The half-subtractor is a combinational circuit which is used to perform subtract
 
 Diff = A’B+AB’ =A ⊕ B
 Borrow = A’B
+<img width="390" alt="image" src="https://github.com/user-attachments/assets/5abc78aa-6fb4-4555-8e6c-a681fafb295a" />
 
- ![image](https://github.com/naavaneetha/HALF_ADDER_SUBTRACTOR/assets/154305477/d76b099c-513f-4e7c-843a-e2fd028a531a)
 
 Figure -02 HALF Subtractor
 
@@ -53,10 +53,19 @@ Figure -02 HALF Subtractor
 
 /* Program to design a half adder and full adder circuit and verify its truth table in quartus using Verilog programming.
 
-Developed by: RegisterNumber:*/ 212224220047
+Developed by: KEERTHANA C RegisterNumber:*/ 212224220047
+<img width="433" alt="image" src="https://github.com/user-attachments/assets/e89b72e6-35d7-4fc7-a9c7-2522973dbcbf" />
+
 
 **RTL Schematic**
+<img width="326" alt="image" src="https://github.com/user-attachments/assets/e125cbe1-59cc-4d5f-9f98-a06355410410" />
+
+<img width="276" alt="image" src="https://github.com/user-attachments/assets/6df70bea-dad7-4fb6-8c86-0f37296ba726" />
+
 
 **Output/TIMING Waveform**
+<img width="470" alt="image" src="https://github.com/user-attachments/assets/66d5fc67-62eb-41bb-8079-32ce0a80c1b2" />
+
 
 **Result:**
+Design a half adder and half subtractor circuit and verify its truth table in Quartus using Verilog programming is verified.
